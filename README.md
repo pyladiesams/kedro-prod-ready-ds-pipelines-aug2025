@@ -1,8 +1,8 @@
-# { WORKSHOP NAME } 
+# Data science that ships: production-ready pipelines with Kedro
 ### Presentation: [{ YOUR PRESENTATION NAME }](workshop/presentation_template.pdf)
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+In this hands-on workshop, we'll refactor a typical data science notebook into a well-structured Kedro project, exploring its core features and workflow and software engineering best practices.
 
 ## Requirements
 * PyLadies Amsterdam uses [uv](https://docs.astral.sh/uv/) for dependency management
@@ -35,10 +35,10 @@ To get started, open the `pyproject.toml` file and set the required Python versi
 After you have specified the Python version, you can create a virtual environment with `uv venv` and add packages with `uv add <package>`. Before the workshop, you can generate a requirements.txt file, which is needed e.g. for running code in Google Colab, by running `uv export > requirements.txt`.
 
 ## Video record
-Re-watch [this YouTube stream](link)
+Re-watch [this YouTube stream]([link](https://www.youtube.com/live/Dcriovnobqo))
 
 ## Credits
-This workshop was set up by @pyladiesams and {your GitHub handler}
+This workshop was set up by @pyladiesams and @merelcht
 
 ## Appendix
 ### Pre-Commit Hooks
