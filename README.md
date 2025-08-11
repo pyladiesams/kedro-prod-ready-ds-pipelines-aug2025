@@ -1,5 +1,4 @@
 # Data science that ships: production-ready pipelines with Kedro
-### Presentation: [{ YOUR PRESENTATION NAME }](workshop/presentation_template.pdf)
 
 ## Workshop description
 In this hands-on workshop, we'll refactor a typical data science notebook into a well-structured Kedro project, exploring its core features and workflow and software engineering best practices.
