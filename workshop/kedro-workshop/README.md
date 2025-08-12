@@ -1,4 +1,4 @@
-# techfest-workshop
+# PyLadies Amsterdam Workshop
 
 [![Powered by Kedro](https://img.shields.io/badge/powered_by-kedro-ffc900?logo=kedro)](https://kedro.org)
 
@@ -7,7 +7,7 @@
 ## Clone this repo locally
 
 ```
-...
+git clone https://github.com/pyladiesams/kedro-prod-ready-ds-pipelines-aug2025.git
 ```
 
 ## Install dependencies
