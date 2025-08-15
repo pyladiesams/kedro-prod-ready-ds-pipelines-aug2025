@@ -6,4 +6,10 @@ In this hands-on workshop, we'll refactor a typical data science notebook into a
 See the [workshop README](workshop/kedro-workshop/README.md) for more instructions on how to get started.
 The `solutions` directory contains the solutions to the exercises.
 
+## Video record
+Re-watch [this YouTube stream](https://www.youtube.com/live/Dcriovnobqo)
+
+## Credits
+This workshop was set up by @pyladiesams and @merelcht
+
 Happy Coding :)
